@@ -421,7 +421,7 @@ ul a {
 /* bottom services*/
 
 .services {
-    background: #232F3E;
+    background: #131A22;
     color: #fff;
     padding: 30px 10px;
     margin-bottom: 20px;
@@ -441,16 +441,16 @@ ul a {
 }
 
 .services li {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     margin-bottom: 0;
     color: #ccc;
-    line-height: 1.4;
+    line-height: 1.2;
 }
 
 .services strong {
     color: #fff;
     font-weight: 700;
-    font-size: 1.13rem;
+    font-size: 1rem;
 }
 
 @media (max-width: 900px) {
